@@ -13,15 +13,6 @@ h6{
 input{
     size: "100";
 }
-.flex-container h1{
-    color: #0a0a0a;
-    background-color: #fcf8f8;
-    padding-left: 10px;
-}
-.flex-container  p{
-    padding-left: 20px;
-    color: #000000;
-}
 .grid,.grid-bat{ 
     position: relative;
     margin: 5% 0;
