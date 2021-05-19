@@ -158,6 +158,10 @@ p span{
 .check1{
     padding-left: 40%;    
 }
+.bottom{
+    position: absolute;
+    bottom: 0px;
+}
 #Add-cart{
     margin: 3% 2% 0 30%;
 }
@@ -300,10 +304,6 @@ p span{
     }
     .check1{
         padding: 0%;
-    }
-    .bottom{
-        position: absolute;
-        bottom: 0px;
     }
     #align,#align-btn{
         margin: 2% 0 1% 35% ;
