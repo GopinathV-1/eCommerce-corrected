@@ -280,7 +280,7 @@ p span{
         font-size: 14px;
     }
     .cart button{
-        width: 35%;
+        width: 40%;
         margin-bottom: 5%;
     }
     .grid-cart img{
@@ -301,7 +301,11 @@ p span{
     .check1{
         padding: 0%;
     }
-    #align-btn{
+    .bottom{
+        position: absolute;
+        bottom: 0px;
+    }
+    #align,#align-btn{
         margin: 2% 0 1% 35% ;
     }
     #list1,#list2,#list3{
